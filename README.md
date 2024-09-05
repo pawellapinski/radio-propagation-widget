@@ -1,4 +1,6 @@
-# Radio Propagation Widget
+# Radio Propagation Widget [BETA version]
+![FM-DX Webserver  Tuner localhost  - localhost](https://github.com/user-attachments/assets/aed4f5cc-1099-4aaf-8033-ae123ea49652)
+
 
 A simple widget for displaying radio propagation maps, designed to be responsive for both desktop and mobile devices. The widget allows users to select different propagation map versions and saves their preferences for future visits using `localStorage`.
 
