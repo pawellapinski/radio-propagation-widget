@@ -1,5 +1,5 @@
 // Plugin configuration, this is used in the administration when plugins are loaded
-var pluginConfig = {
+const pluginConfig = {
     name: 'Radio Propagation ver. BETA 0.5',
     version: '0.5',
     author: 'Pawel Lapa',
